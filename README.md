@@ -19,6 +19,9 @@ https://www.facebook.com/groups/DevCLagos/
 ### Facebook Group Developer Circles Nigeria: ReactJS:
 https://www.facebook.com/groups/devcReactNigeria/
 
+### Facebook Developer Circles Ibadan:
+https://www.facebook.com/groups/484410305405597
+
 <hr>
 
 ## List of Developer Communities to follow on Twitter
@@ -32,5 +35,7 @@ https://twitter.com/LaravelNigeria
 
 ### Angular Nigeria
 https://twitter.com/ngnigeria
+
+
 
 
