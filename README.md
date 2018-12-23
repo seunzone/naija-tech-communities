@@ -22,6 +22,9 @@ https://www.facebook.com/groups/devcReactNigeria/
 ### Facebook Developer Circles Ibadan:
 https://www.facebook.com/groups/484410305405597
 
+### Javascripters on WhatsApp
+https://chat.whatsapp.com/JCIr3zpcbeT7NLbjOf4nmb
+
 <hr>
 
 ## List of Developer Communities to follow on Twitter
