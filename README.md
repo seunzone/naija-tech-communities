@@ -31,6 +31,13 @@ https://chat.whatsapp.com/C3NAtYASlr53YvqyulxLvA
 ### Developers Students Club Osun State University WhatsApp Group
 https://chat.whatsapp.com/6b4Xe63BmxvCwBltQeRdiI
 
+### Arewa Tech Community (ATC) WhatsApp Group
+https://chat.whatsapp.com/7RBoZJiFMTs63zieHL3mmN
+
+### Laravel Discussion WhatsApp Group
+https://chat.whatsapp.com/Brq2BepoaucHWdPCawC4Lv
+
+
 <hr>
 
 ## List of Developer Communities to follow on Twitter
