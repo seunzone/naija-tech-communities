@@ -31,13 +31,17 @@ https://chat.whatsapp.com/C3NAtYASlr53YvqyulxLvA
 ### Developers Students Club Osun State University WhatsApp Group
 https://chat.whatsapp.com/6b4Xe63BmxvCwBltQeRdiI
 
-### Arewa Tech Community (ATC) WhatsApp Group
+### Arewa Tech Community (ATC) WhatsApp Group:
 https://chat.whatsapp.com/7RBoZJiFMTs63zieHL3mmN
 
-### Laravel Discussion WhatsApp Group
+### Laravel Discussion WhatsApp Group:
 https://chat.whatsapp.com/Brq2BepoaucHWdPCawC4Lv
 
+### Python and A.I Beginners WhatsApp Group:
+https://chat.whatsapp.com/GVkRMSaiGzoLtPDkltlha6
 
+### PHP Arewa WhatsApp Group:
+https://chat.whatsapp.com/DMlMK8ZeXHq2QbK1DTpa9W
 
 <hr>
 
@@ -52,6 +56,9 @@ https://twitter.com/LaravelNigeria
 
 ### Angular Nigeria
 https://twitter.com/ngnigeria
+
+### Blockchain Nigeria
+https://twitter.com/BlockchainNG
 
 
 
