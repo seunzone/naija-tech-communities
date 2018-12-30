@@ -43,6 +43,10 @@ https://chat.whatsapp.com/GVkRMSaiGzoLtPDkltlha6
 - ### PHP Arewa WhatsApp Group:
 https://chat.whatsapp.com/DMlMK8ZeXHq2QbK1DTpa9W
 
+### Python User Group IBB University Lapai:
+
+https://chat.whatsapp.com/KBLTRuLx1RG4p3I8KMsskg
+
 <hr>
 
 ## List of Developer Communities to follow on Twitter
