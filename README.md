@@ -1,5 +1,5 @@
 # naija-tech-communities
-Communities facilitates growth. Here are a list of developer communities within Nigeria
+Communities facilitates growth, here are a list of developer communities within Nigeria
 
 ## List of Developer's Whatsapp Groups
 
