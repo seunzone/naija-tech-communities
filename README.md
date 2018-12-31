@@ -77,6 +77,9 @@ https://oscafrica.org
 - ### ICA Fulokoja
 http://icafulokoja.github.io
 
+- ### LokojaYEM
+https://join.slack.com/t/lokojayem/shared_invite/enQtNTEzNjg1MTgzOTIyLWRiNjBhZGE3Y2E4MDdmY2MyOTYwMTZjODE2OWRkZGE2NzVjMTcyMjliNWIyZjJkYzFmMGE3ODRiYTI0MDZiMWE
+
 - ### FrontStack
 https://frontstack.io
 
