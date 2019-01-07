@@ -36,66 +36,22 @@ Communities facilitates growth. Here are a list of developer communities within 
 ##  List of Developer Communities to follow on Twitter
   
 
-- ### forLoop Abuja
+  | Group | Link |
+|:--|:--|
+| forLoop Abuja | https://twitter.com/forLoopAbuja|
+| forLoop Lokoja | https://twitter.com/ForloopLokoja |
+| Laravel Nigeria |https://twitter.com/LaravelNigeria|
+| Angular Nigeria |https://twitter.com/ngnigeria|
+| Blockchain Nigeria |https://twitter.com/BlockchainNG|
 
-https://twitter.com/forLoopAbuja
-
-  
-
-- ### forLoop Lokoja
-
-https://twitter.com/ForloopLokoja
-
-  
-
-- ### Laravel Nigeria
-
-https://twitter.com/LaravelNigeria
-
-  
-
-- ### Angular Nigeria
-
-https://twitter.com/ngnigeria
-
-  
-
-- ### Blockchain Nigeria
-
-https://twitter.com/BlockchainNG
-
-  
   
 
 ##  List of Developer Communities
-
   
-  
-
-- ### Open Source Community Africa
-
-https://oscafrica.org
-
-  
-
-- ### ICA Fulokoja
-
-http://icafulokoja.github.io
-
-  
-
-- ### LokojaYEM
-
-https://join.slack.com/t/lokojayem/shared_invite/enQtNTEzNjg1MTgzOTIyLWRiNjBhZGE3Y2E4MDdmY2MyOTYwMTZjODE2OWRkZGE2NzVjMTcyMjliNWIyZjJkYzFmMGE3ODRiYTI0MDZiMWE
-
-  
-
-- ### FrontStack
-
-https://frontstack.io
-
-  
-
-- ### FavCode54
-
-https://favcode54.org
+  | Group | Link |
+|:--|:--|
+| Open Source Community Africa |https://oscafrica.org|
+| ICA Fulokoja | http://icafulokoja.github.io |
+| LokojaYEM |https://join.slack.com/t/lokojayem/shared_invite/enQtNTEzNjg1MTgzOTIyLWRiNjBhZGE3Y2E4MDdmY2MyOTYwMTZjODE2OWRkZGE2NzVjMTcyMjliNWIyZjJkYzFmMGE3ODRiYTI0MDZiMWE|
+| FrontStack |https://frontstack.io|
+| FavCode54 |https://favcode54.org|
