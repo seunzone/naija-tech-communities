@@ -30,10 +30,7 @@ Communities facilitates growth. Here are a list of developer communities within 
 |Facebook Developer Circles Lagos | https://www.facebook.com/groups/DevCLagos/ |
 | Facebook Group Developer Circles Nigeria: ReactJS | https://www.facebook.com/groups/devcReactNigeria/ |
 | Facebook Developer Circles Ibadan | https://www.facebook.com/groups/484410305405597 |
-| Free Code Camp Abuja Whatsapp Group | https://chat.whatsapp.com/IwoIwmhQEvE1EYq0Lpv7dp |
-| Free Code Camp Abuja Whatsapp Group | https://chat.whatsapp.com/IwoIwmhQEvE1EYq0Lpv7dp |
-| Free Code Camp Abuja Whatsapp Group | https://chat.whatsapp.com/IwoIwmhQEvE1EYq0Lpv7dp |
-| Free Code Camp Abuja Whatsapp Group | https://chat.whatsapp.com/IwoIwmhQEvE1EYq0Lpv7dp |
+
   
 
 ##  List of Developer Communities to follow on Twitter
