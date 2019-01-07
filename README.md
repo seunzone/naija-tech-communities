@@ -43,6 +43,15 @@ Communities facilitates growth. Here are a list of developer communities within 
 | Laravel Nigeria |https://twitter.com/LaravelNigeria|
 | Angular Nigeria |https://twitter.com/ngnigeria|
 | Blockchain Nigeria |https://twitter.com/BlockchainNG|
+| Google Developer Groups Lagos |https://twitter.com/gdglagos|
+| Google Developer Groups Ibadan |https://twitter.com/gdgibadan|
+| Google Developer Groups Gracepoly |https://twitter.com/GDGGracepoly|
+| Google Developer Groups Warri |https://twitter.com/gdg_warri|
+| Google Developer Groups Benin |https://twitter.com/gdgbenin|
+| Google Developer Groups Minna |https://twitter.com/GDGMinna|
+| Google Developer Groups Abuja |https://twitter.com/gdgabuja|
+| Developer Stucent Club Unilag |https://twitter.com/DSCUnilag|
+| Developer Stucent Club OAU |https://twitter.com/DSCOAU|
 
   
 
