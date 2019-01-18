@@ -52,6 +52,8 @@ Communities facilitates growth. Here are a list of developer communities within 
 | Google Developer Groups Abuja |https://twitter.com/gdgabuja|
 | Developer Stucent Club Unilag |https://twitter.com/DSCUnilag|
 | Developer Stucent Club OAU |https://twitter.com/DSCOAU|
+| Open Source Community Africa |https://twitter.com/oscafrica|
+| OSCALokoja | https://twitter.com/oscalokoja|
 
   
 
