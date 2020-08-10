@@ -8,6 +8,7 @@ Communities facilitates growth. Here are a list of developer communities within 
 
 | Group | Link |
 |:--|:--|
+| Techie Base |  https://chat.whatsapp.com/LPudN4wChKwDu05qF2kBiX |
 | Free Code Camp Abuja Whatsapp Group | https://chat.whatsapp.com/IwoIwmhQEvE1EYq0Lpv7dp |
 | Javascripters WhatsApp Group | https://chat.whatsapp.com/JCIr3zpcbeT7NLbjOf4nmb |
 | PHP Developers WhatsApp Group | https://chat.whatsapp.com/C3NAtYASlr53YvqyulxLvA|
